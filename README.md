@@ -5,4 +5,4 @@ website i designed while learning to integrate tailwind into my html scripts, fe
 - html 
 - tailwind css 
 
-jazgamarra, october 4th 2022 
+##### *jazgamarra, october 4th 2022*
